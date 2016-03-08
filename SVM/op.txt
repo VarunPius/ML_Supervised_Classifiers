@@ -1,0 +1,69 @@
+C=0.1
+nos of rows: 15
+Total test dataset for class 1 and 2: 90
+Misclassification for 1 & 2: 16.4553234106
+Total test dataset for class 1 and 3: 90
+Misclassification for 1 & 3: 1.64635609948
+Total test dataset for class 2 and 3: 90
+Misclassification for 2 & 3: 59.3063020531
+nos of rows: 45
+Total test dataset for class 1 and 2: 70
+Misclassification for 1 & 2: 2.21918770279
+Total test dataset for class 1 and 3: 70
+Misclassification for 1 & 3: 0.414439844458
+Total test dataset for class 2 and 3: 70
+Misclassification for 2 & 3: 31.9371889877
+nos of rows: 75
+Total test dataset for class 1 and 2: 50
+Misclassification for 1 & 2: 0.646639095631
+Total test dataset for class 1 and 3: 50
+Misclassification for 1 & 3: 0
+Total test dataset for class 2 and 3: 50
+Misclassification for 2 & 3: 20.7238584079
+
+C=1
+nos of rows: 15
+Total test dataset for class 1 and 2: 90
+Misclassification for 1 & 2: 2.59407255479
+Total test dataset for class 1 and 3: 90
+Misclassification for 1 & 3: 0
+Total test dataset for class 2 and 3: 90
+Misclassification for 2 & 3: 24.1695392291
+nos of rows: 45
+Total test dataset for class 1 and 2: 70
+Misclassification for 1 & 2: 0.368856968531
+Total test dataset for class 1 and 3: 70
+Misclassification for 1 & 3: 0.065807541962
+Total test dataset for class 2 and 3: 70
+Misclassification for 2 & 3: 18.0067617442
+nos of rows: 75
+Total test dataset for class 1 and 2: 50
+Misclassification for 1 & 2: 0
+Total test dataset for class 1 and 3: 50
+Misclassification for 1 & 3: 0
+Total test dataset for class 2 and 3: 50
+Misclassification for 2 & 3: 9.41067257864
+
+C=10
+nos of rows: 15
+Total test dataset for class 1 and 2: 90
+Misclassification for 1 & 2: 0.142544073434
+Total test dataset for class 1 and 3: 90
+Misclassification for 1 & 3: 0
+Total test dataset for class 2 and 3: 90
+Misclassification for 2 & 3: 13.6022310419
+nos of rows: 45
+Total test dataset for class 1 and 2: 70
+Misclassification for 1 & 2: 0.104427862569
+Total test dataset for class 1 and 3: 70
+Misclassification for 1 & 3: 0
+Total test dataset for class 2 and 3: 70
+Misclassification for 2 & 3: 12.1500660052
+nos of rows: 75
+Total test dataset for class 1 and 2: 50
+Misclassification for 1 & 2: 0.157460204368
+Total test dataset for class 1 and 3: 50
+Misclassification for 1 & 3: 0
+Total test dataset for class 2 and 3: 50
+Misclassification for 2 & 3: 6.84565178722
+

@@ -1,0 +1,21 @@
+nos of rows: 15
+Total test dataset for class 1 and 2: 90
+Misclassification for 1 & 2: [[19.245676148039223]]
+Total test dataset for class 1 and 3: 90
+Misclassification for 1 & 3: [[16.366865609856248]]
+Total test dataset for class 2 and 3: 90
+Misclassification for 2 & 3: [[43.72005975195114]]
+nos of rows: 45
+Total test dataset for class 1 and 2: 70
+Misclassification for 1 & 2: [[11.208238380030053]]
+Total test dataset for class 1 and 3: 70
+Misclassification for 1 & 3: [[13.687359281724397]]
+Total test dataset for class 2 and 3: 70
+Misclassification for 2 & 3: [[31.10222040395766]]
+nos of rows: 75
+Total test dataset for class 1 and 2: 50
+Misclassification for 1 & 2: [[7.564368988488951]]
+Total test dataset for class 1 and 3: 50
+Misclassification for 1 & 3: [[7.958734993275549]]
+Total test dataset for class 2 and 3: 50
+Misclassification for 2 & 3: [[11.827208848930233]]
